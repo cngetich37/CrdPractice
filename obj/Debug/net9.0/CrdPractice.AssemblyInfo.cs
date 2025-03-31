@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CrdPractice")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c1ab89331e700bc5af0da97aea89780c3d929259")]
 [assembly: System.Reflection.AssemblyProductAttribute("CrdPractice")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CrdPractice")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
